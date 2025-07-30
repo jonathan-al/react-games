@@ -46,7 +46,9 @@ A modern implementation of the classic Snake game built with Deep Sites, featuri
 
 ## Live Demo
 
-Open any of the HTML files directly in your browser - no build process required!
+🎮 **Play online:** [https://jonathan-al.github.io/react-games/snake_game.html](https://jonathan-al.github.io/react-games/snake_game.html)
+
+Or download and open any of the HTML files directly in your browser - no build process required!
 
 ## Contributing
 

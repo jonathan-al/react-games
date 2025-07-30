@@ -5,7 +5,7 @@ A collection of classic games built with React.
 ## Games Included
 
 ### 🐍 Snake Game
-A modern implementation of the classic Snake game built with Deep Sites, featuring:
+A modern implementation of the classic Snake game built with [Deep Sites](https://linusorii-deepsite-v2.hf.space/), featuring:
 - Responsive design with Tailwind CSS
 - Mobile-friendly touch controls (swipe to move)
 - Keyboard controls (arrow keys, space to pause)
